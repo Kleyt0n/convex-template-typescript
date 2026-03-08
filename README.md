@@ -1,5 +1,5 @@
 
-![](public/banner.png)
+![](public/banner.gif)
 
 # TanStack Start + Convex + Clerk Starter
 
