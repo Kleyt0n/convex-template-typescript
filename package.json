@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "concurrently --names convex,vite --prefix-colors cyan,magenta \"convex dev\" \"NODE_OPTIONS='--max-http-header-size=32768' vite dev\"",
+    "dev": "NODE_OPTIONS='--max-http-header-size=65536' concurrently --names convex,vite --prefix-colors cyan,magenta \"convex dev\" \"vite dev\"",
     "build": "vite build",
     "start": "node .output/server/index.mjs",
     "lint": "tsc --noEmit"
