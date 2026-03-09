@@ -3,7 +3,7 @@
 
 # TanStack Start + Convex + Clerk Starter
 
-A production-ready starter template with authentication, real-time backend, and a clean slate-themed dashboard.
+A Typescript production-ready starter template with authentication, real-time backend, and a clean slate-themed dashboard.
 
 ## Stack
 
