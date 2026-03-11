@@ -7,6 +7,7 @@
     "dev": "NODE_OPTIONS='--max-http-header-size=65536' concurrently --names convex,vite --prefix-colors cyan,magenta \"convex dev\" \"vite dev\"",
     "build": "vite build",
     "start": "node .output/server/index.mjs",
+    "format": "prettier --write .",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
@@ -35,6 +36,8 @@
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "4.7.0",
     "concurrently": "9.2.1",
+    "nitro": "3.0.1-alpha.2",
+    "prettier": "3.8.1",
     "tailwindcss": "4.2.1",
     "typescript": "5.9.3",
     "vite": "7.3.1",
