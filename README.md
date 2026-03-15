@@ -66,7 +66,7 @@ See the [docs/](./docs/README.md) directory for:
 
 - [X] Add Clerk integration
 - [X] Add one click deploy to Vercel
-- [ ] Create a simple configuration script for Mac, Linux, and Windows
+- [X] Create a simple configuration script for Mac, Linux, and Windows
 - [ ] Add a voice system assistant agent (TanStack AI)
 - [ ] Enhance tutorial for integration and deploy
 - [ ] Add Resend email integration
