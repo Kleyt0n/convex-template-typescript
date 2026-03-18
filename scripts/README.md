@@ -90,3 +90,11 @@ Then start developing:
 cd convex-template-typescript
 pnpm dev
 ```
+
+
+## Short-cut
+
+https://v0.app/
+https://replit.com/
+
+
