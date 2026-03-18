@@ -1,6 +1,6 @@
 # Setup Scripts
 
-One-command setup for the Research Project Page. **No need to clone the repo first** — the scripts handle everything: installing prerequisites, cloning the repo, installing dependencies, and creating your `.env` file.
+One-command setup for the Web Project Page. **No need to clone the repo first** — the scripts handle everything: installing prerequisites, cloning the repo, installing dependencies, and creating your `.env` file.
 
 ## macOS
 
